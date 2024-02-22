@@ -1,0 +1,163 @@
+﻿Year,name,poverty rate
+2020,Central and Western,9.9
+2020,Wan Chai ,10.9
+2020,Eastern ,7.9
+2020,Southern ,6.1
+2020,Yau Tsim Mong ,10.7
+2020,Sham Shui Po,6.7
+2020,Kowloon City ,8.8
+2020,Wong Tai Sin ,7.1
+2020,Kwun Tong ,5.5
+2020,Kwai Tsing ,5.5
+2020,Tsuen Wan ,9
+2020,Tuen Mun ,8.6
+2020,Yuen Long ,9.5
+2020,North ,9.8
+2020,Tai Po ,10.2
+2020,Sha Tin ,7.1
+2020,Sai Kung ,6.8
+2020,Islands ,8.7
+2019,Central and Western,13
+2019,Wan Chai ,12.8
+2019,Eastern ,12.6
+2019,Southern ,11.8
+2019,Yau Tsim Mong ,16.3
+2019,Sham Shui Po,16.6
+2019,Kowloon City ,13.9
+2019,Wong Tai Sin ,17.3
+2019,Kwun Tong ,19
+2019,Kwai Tsing ,17.1
+2019,Tsuen Wan ,14.3
+2019,Tuen Mun ,18.5
+2019,Yuen Long ,16.6
+2019,North ,17.8
+2019,Tai Po ,16.5
+2019,Sha Tin ,16.4
+2019,Sai Kung ,11.4
+2019,Islands ,15.7
+2018,Central and Western,12
+2018,Wan Chai ,12.9
+2018,Eastern ,13
+2018,Southern ,11.9
+2018,Yau Tsim Mong ,16
+2018,Sham Shui Po,16.6
+2018,Kowloon City ,13.9
+2018,Wong Tai Sin ,15.6
+2018,Kwun Tong ,18.8
+2018,Kwai Tsing ,15.4
+2018,Tsuen Wan ,14.3
+2018,Tuen Mun ,15.8
+2018,Yuen Long ,15.3
+2018,North ,18.1
+2018,Tai Po ,13.4
+2018,Sha Tin ,14.9
+2018,Sai Kung ,10.7
+2018,Islands ,12.3
+2017,Central and Western,10.3
+2017,Wan Chai ,12.5
+2017,Eastern ,12
+2017,Southern ,13.7
+2017,Yau Tsim Mong ,14.3
+2017,Sham Shui Po,17
+2017,Kowloon City ,13.9
+2017,Wong Tai Sin ,16.4
+2017,Kwun Tong ,17.2
+2017,Kwai Tsing ,15.2
+2017,Tsuen Wan ,13.5
+2017,Tuen Mun ,15.9
+2017,Yuen Long ,16.7
+2017,North ,17.5
+2017,Tai Po ,14.4
+2017,Sha Tin ,14
+2017,Sai Kung ,11.7
+2017,Islands ,13.9
+2016,Central and Western,12
+2016,Wan Chai ,12.7
+2016,Eastern ,11.3
+2016,Southern ,11.1
+2016,Yau Tsim Mong ,14.5
+2016,Sham Shui Po,16.8
+2016,Kowloon City ,12.8
+2016,Wong Tai Sin ,15.4
+2016,Kwun Tong ,16.2
+2016,Kwai Tsing ,16.4
+2016,Tsuen Wan ,13.5
+2016,Tuen Mun ,15.3
+2016,Yuen Long ,16.8
+2016,North ,18.7
+2016,Tai Po ,16
+2016,Sha Tin ,13.9
+2016,Sai Kung ,12.2
+2016,Islands ,14.2
+2015,Central and Western,11.9
+2015,Wan Chai ,13.6
+2015,Eastern ,13.6
+2015,Southern ,10.9
+2015,Yau Tsim Mong ,15.5
+2015,Sham Shui Po,17
+2015,Kowloon City ,15
+2015,Wong Tai Sin ,16.2
+2015,Kwun Tong ,16.8
+2015,Kwai Tsing ,15.7
+2015,Tsuen Wan ,12.6
+2015,Tuen Mun ,14.4
+2015,Yuen Long ,16
+2015,North ,14.2
+2015,Tai Po ,12
+2015,Sha Tin ,12.7
+2015,Sai Kung ,9.7
+2015,Islands ,14.3
+2014,Central and Western,11
+2014,Wan Chai ,13
+2014,Eastern ,13.3
+2014,Southern ,11.1
+2014,Yau Tsim Mong ,15.1
+2014,Sham Shui Po,18.2
+2014,Kowloon City ,13.6
+2014,Wong Tai Sin ,16.4
+2014,Kwun Tong ,16.7
+2014,Kwai Tsing ,16.9
+2014,Tsuen Wan ,12.1
+2014,Tuen Mun ,14.9
+2014,Yuen Long ,14.8
+2014,North ,16.5
+2014,Tai Po ,12.9
+2014,Sha Tin ,12.4
+2014,Sai Kung ,10
+2014,Islands ,12.5
+2013,Central and Western,11.1
+2013,Wan Chai ,10.9
+2013,Eastern ,13.2
+2013,Southern ,11.2
+2013,Yau Tsim Mong ,15.2
+2013,Sham Shui Po,18.6
+2013,Kowloon City ,12.6
+2013,Wong Tai Sin ,16.2
+2013,Kwun Tong ,17.7
+2013,Kwai Tsing ,16.3
+2013,Tsuen Wan ,13.1
+2013,Tuen Mun ,16.1
+2013,Yuen Long ,14.9
+2013,North ,15
+2013,Tai Po ,12.6
+2013,Sha Tin ,13.2
+2013,Sai Kung ,11.3
+2013,Islands ,14.9
+2012,Central and Western,11.4
+2012,Wan Chai ,12.4
+2012,Eastern ,13
+2012,Southern ,11.8
+2012,Yau Tsim Mong ,15.7
+2012,Sham Shui Po,18.8
+2012,Kowloon City ,13.1
+2012,Wong Tai Sin ,18.7
+2012,Kwun Tong ,19.1
+2012,Kwai Tsing ,18.1
+2012,Tsuen Wan ,13
+2012,Tuen Mun ,15.9
+2012,Yuen Long ,18.6
+2012,North ,16.8
+2012,Tai Po ,11.1
+2012,Sha Tin ,12.8
+2012,Sai Kung ,10.7
+2012,Islands ,14.3
